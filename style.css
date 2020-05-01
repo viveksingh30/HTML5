@@ -1,0 +1,52 @@
+h1 {
+  color: red;
+}
+
+.title {
+  color: orangered;
+}
+
+.divClass {
+  color: pink;
+}
+
+#italicId {
+  color: purple;
+  font-style: italic;
+}
+
+nav {
+  background-color: red;
+  text-align: center;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 30px;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  background: #00bf6f;
+  margin: 10px;
+}
+
+.flex {
+  margin: 30px;
+  border: 3px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 100px;
+}
+
+
